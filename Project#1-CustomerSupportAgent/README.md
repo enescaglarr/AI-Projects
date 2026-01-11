@@ -4,8 +4,8 @@ Follow these steps to set up the development environment on your local machine:
 1. Clone the Repository
 Open your terminal and run the following commands to clone the project:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AI-Projects/Project#1-CustomerSupportAgent.git
+cd Project#1-CustomerSupportAgent
 ```
 
 2. Create a Virtual Environment
