@@ -10,7 +10,7 @@ Since this project is part of the `AI-Projects` suite, you must clone the main r
 git clone https://github.com/enescaglarr/AI-Projects.git
 
 # Enter this project's directory
-cd "AI-Projects/Project#1-CustomerSupportAgent"
+cd "AI-Projects/Project#1-CustomerSupportAgent/Codes"
 ```
 
 2. Create a Virtual Environment
