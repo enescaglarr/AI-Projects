@@ -1,11 +1,16 @@
-### Installation & Setup
+## 🚀 Installation & Setup
+
 Follow these steps to set up the development environment on your local machine:
 
-1. Clone the Repository
-Open your terminal and run the following commands to clone the project:
+### 1. Clone the Repository
+Since this project is part of the `AI-Projects` suite, you must clone the main repository and navigate to this folder:
+
 ```bash
-git clone https://github.com/enescaglarr/AI-Projects/Project#1-CustomerSupportAgent.git
-cd Project#1-CustomerSupportAgent
+# Clone the main repository
+git clone [https://github.com/enescaglarr/AI-Projects.git](https://github.com/enescaglarr/AI-Projects.git)
+
+# Enter this project's directory
+cd "AI-Projects/Project#1-CustomerSupportAgent"
 ```
 
 2. Create a Virtual Environment
