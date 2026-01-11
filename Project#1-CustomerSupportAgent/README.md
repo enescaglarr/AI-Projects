@@ -7,7 +7,7 @@ Since this project is part of the `AI-Projects` suite, you must clone the main r
 
 ```bash
 # Clone the main repository
-git clone [https://github.com/enescaglarr/AI-Projects.git](https://github.com/enescaglarr/AI-Projects.git)
+git clone https://github.com/enescaglarr/AI-Projects.git
 
 # Enter this project's directory
 cd "AI-Projects/Project#1-CustomerSupportAgent"
