@@ -35,4 +35,6 @@ The system requires a Google Gemini API Key to power the models/text-embedding-0
 Create a file named .env in the root directory.
 
 Add your API key to the file:
+```bash
 GEMINI_API_KEY=your_actual_api_key_here
+```
