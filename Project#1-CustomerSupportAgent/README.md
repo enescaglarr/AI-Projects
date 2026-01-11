@@ -1,4 +1,4 @@
-Installation & Setup
+### Installation & Setup
 Follow these steps to set up the development environment on your local machine:
 
 1. Clone the Repository
