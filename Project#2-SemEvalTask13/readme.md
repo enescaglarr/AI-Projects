@@ -49,8 +49,11 @@ The models were evaluated using the **Macro F1 score** to account for class dist
 
 | Model | Validation Macro F1 | Hidden Test Macro F1 |
 | :--- | :--- | :--- |
-| **ModernBERT** | 0.9970 | 0.3521 |
+| **ModernBERT** | 0.9970 | 0.2800 |
 | **CodeBERT** | 0.9820 | 0.3450 |
+| **UniXcoder** | 0.9940| 0.2900 |
+| **GraphCodeBERT** | 0.9950| 0.2500 |
+| **XGBoost** | 0.9831 | 0.2700 |
 | **CatBoost** | 0.9700 | 0.3800 |
 | **TF-IDF + SVM** | 0.8500 | **0.4589** |
 
@@ -58,10 +61,3 @@ The models were evaluated using the **Macro F1 score** to account for class dist
 
 ---
 
-## Getting Started
-
-### Installation
-Ensure you have Python 3.13+ installed along with the following dependencies:
-```bash
-pip install tree-sitter tree-sitter-python tree-sitter-java tree-sitter-cpp tree-sitter-c
-pip install catboost transformers scikit-learn pandas matplotlib
